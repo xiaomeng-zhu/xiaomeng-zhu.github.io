@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xiaomeng (Miranda) Zhu"
   avatar           : "miranda-headshot.jpg"
-  bio              : "Senior at Wellesley College double majoring in Computer Science and Cognitive and Linguistic Sciences with a concentration in Linguistics"
+  bio              : "Senior at Wellesley College double majoring in CS and Linguistics"
   location         : "Wellesley, MA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : xz2@wellesley.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
