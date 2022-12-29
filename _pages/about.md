@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a senior at Wellesley College double majoring in Computer Science and Cognitive and Linguistic Sciences (Linguistics concentration). I am from Shanghai, China. The IPA transctiption of my Chinese name is \[ɕiau˨˩˦məŋ˧˥ ʈʂu˥˥\]. I also go by Miranda. I am looking for graduate positions for Fall 2023.
+I am a senior at Wellesley College double majoring in Computer Science and Cognitive and Linguistic Sciences (Linguistics concentration). I am from Shanghai, China. The IPA transcription of my Chinese name 朱筱萌 is \[ɕiau˨˩˦məŋ˧˥ ʈʂu˥˥\]. Here is an easier version for English speakers: /sheeaw-mong joo/. I also go by Miranda. I am looking for graduate positions for Fall 2023.
 
 ### Research Interests
 I am broadly interested in research at the intersection of Computer Science and Linguistics -- applying computational methods to understand linguistic phenomena as well as building language models that have better natural language understanding abilities with the help of linguistic insights.
