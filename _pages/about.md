@@ -19,7 +19,7 @@ The poster that we presented at the Wellesley College Science Center Summer Rese
 
 **Senior Thesis: The Modified Mother Tongue: Examining Chinese Vowel Quality Shift in Chinese-Dominant Chinese-English Code-Switching Environments (May 2022 - Present)**\
 Advisor: Professor [Angela Carpenter](https://www.wellesley.edu/cogsci/faculty/carpenter)\
-Please email me if you would like a copy of the introduction chapter of my thesis. I am also recruiting members for my [experiment](https://xiaomeng-zhu.github.io/images/Flyer%20English-Translated.pdf). If you are a Chinese international student in the U.S. who grows up mainly in Beijing/Shanghai and are interested in participating in bilingualism/phonetics research, please feel free to reach out! 
+Please email me if you would like a copy of the introduction chapter of my thesis. I am also recruiting members for my [experiment](https://xiaomeng-zhu.github.io/images/Flyer%20English-Translated.pdf). If you are a Chinese international student in the U.S. who grew up mainly in Beijing/Shanghai and are interested in participating in bilingualism/phonetics research, please feel free to reach out! 
 
 ### Other Affiliations
 I am a member of the [Sociolinguistics Lab](https://www.sabriya-fisher.com/sociolinguistics-at-wellesley) at Wellesley College (PI: Sabriya Fisher). I have also worked as a research assistant at the [Experimental Syntax and Semantics Lab](http://web.mit.edu/hackl/www/lab/) at MIT (PI: Martin Hackl). 
