@@ -7,7 +7,26 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a senior at Wellesley College double majoring in [Computer Science](https://www.wellesley.edu/cs) and [Cognitive and Linguistic Sciences](https://www.wellesley.edu/cogsci) with a concentration in Linguistics.
+I am a senior at Wellesley College double majoring in Computer Science and Cognitive and Linguistic Sciences (Linguistics concentration). I am from Shanghai, China. The IPA transctiption of my Chinese name is \[ɕiau˨˩˦məŋ˧˥ ʈʂu˥˥\]. I also go by Miranda. I am looking for graduate positions for Fall 2023.
+
+### Research Interests
+I am broadly interested in research at the intersection of Computer Science and Linguistics -- applying computational methods to understand linguistic phenomena as well as building language models that have better natural language understanding abilities with the help of linguistic insights.
+
+### Current Projects
+I have been working with Professor [Carolyn Anderson](https://canders1.github.io/) since the summer of 2022 on building an NLP pipeline for Chinese literary texts. The poster that we presented at the Wellesley College Science Center Summer Research Program poster session can be found [here](https://xiaomeng-zhu.github.io/images/LiuZhu_Anderson.pdf). 
+
+I am also working on my senior thesis (_The Modified Mother Tongue: Examining Chinese Vowel Quality Shift in Chinese-Dominant Chinese-English Code-Switching Environments_) advised by Professor [Angela Carpenter](https://www.wellesley.edu/cogsci/faculty/carpenter). Please email me if you would like a copy of the introduction chapter of my thesis.
+
+### Other Affiliations
+I am a member of the [Sociolinguistics Lab](https://www.sabriya-fisher.com/sociolinguistics-at-wellesley) at Wellesley College (PI: Sabriya Fisher). I have also worked as a research assistant at the [Experimental Syntax and Semantics Lab](http://web.mit.edu/hackl/www/lab/) at MIT (PI: Martin Hackl). 
+
+### Teaching Assistantships
+[CS 240: Foundations of Computer Systems](https://cs.wellesley.edu/~cs240/f22/) (Fall 2022, Spring 2022)\
+Instructor: Franklyn Turbak, Andrew Davis
+
+[CS 204: Introduction to Web Development](https://cs.wellesley.edu/~cs204/schedule/schedule.html) (Fall 2020 Term 2)\
+Instructor: Scott Anderson
+
 
 <!---
 
