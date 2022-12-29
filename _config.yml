@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "GUeu9YK1kZWO5ecmJCKvXgbeEqSfBeS030EaHoW1hkc"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "XiaomengMZhu"
   vine             :
   weibo            :
   xing             :
