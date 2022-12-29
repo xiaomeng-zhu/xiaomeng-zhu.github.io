@@ -7,17 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a senior at Wellesley College double majoring in Computer Science and Cognitive and Linguistic Sciences (Linguistics concentration). I am from Shanghai, China. The IPA transcription of my Chinese name 朱筱萌 in Putonghua is \[ɕiau˨˩˦məŋ˧˥ ʈʂu˥˥\], although I do not necessarily realize the consonant in my last name as a retroflex (more like [tʃ]). Here is an easier version for English speakers: /sheeaw-mong joo/. I also go by Miranda. I am looking for graduate positions for Fall 2023.
+I am a senior at Wellesley College double majoring in Computer Science and Cognitive and Linguistic Sciences (Linguistics concentration). I am from Shanghai, China. The IPA transcription of my Chinese name 朱筱萌 in Putonghua is \[ɕiau˨˩˦məŋ˧˥ ʈʂu˥˥\], although I do not necessarily realize the consonant in my last name as a retroflex (more like [tʃ]). Here is an easier way to pronounce my name for English speakers: /sheeaw-mong joo/. I also go by Miranda. I am looking for graduate positions for Fall 2023.
 
 ### Research Interests
 I am broadly interested in research at the intersection of Computer Science and Linguistics -- applying computational methods to understand linguistic phenomena as well as building language models that have better natural language understanding abilities with the help of linguistic insights.
 
 ### Current Projects
-#### XiaoshuoNLP: An NLP Pipeline for Processing Chinese Literary Texts (May 2022 - Present)
+**XiaoshuoNLP: An NLP Pipeline for Processing Chinese Literary Texts (May 2022 - Present)**\
 Advisor: Professor [Carolyn Anderson](https://canders1.github.io/)\
 The poster that we presented at the Wellesley College Science Center Summer Research Program poster session can be found [here](https://xiaomeng-zhu.github.io/images/LiuZhu_Anderson.pdf). 
 
-#### Senior Thesis: The Modified Mother Tongue: Examining Chinese Vowel Quality Shift in Chinese-Dominant Chinese-English Code-Switching Environments (May 2022 - Present)
+**Senior Thesis: The Modified Mother Tongue: Examining Chinese Vowel Quality Shift in Chinese-Dominant Chinese-English Code-Switching Environments (May 2022 - Present)**\
 Advisor: Professor [Angela Carpenter](https://www.wellesley.edu/cogsci/faculty/carpenter)\
 Please email me if you would like a copy of the introduction chapter of my thesis. I am also recruiting members for my [experiment](https://xiaomeng-zhu.github.io/images/Flyer%20English-Translated.pdf). If you are a Chinese international student in the U.S. who grows up mainly in Beijing/Shanghai and are interested in participating in bilingualism/phonetics research, please feel free to reach out! 
 
