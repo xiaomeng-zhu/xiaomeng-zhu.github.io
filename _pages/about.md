@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a senior at Wellesley College double majoring in Computer Science and Cognitive and Linguistic Sciences (Linguistics concentration). I will join Yale Lingusitics as a first-year PhD student in Fall 2023.
+I am a senior at Wellesley College double majoring in Computer Science and Cognitive and Linguistic Sciences (Linguistics concentration). I will join Yale Lingusitics as a first-year PhD student in Fall 2023. I am from Shanghai, China. 
 
 ## About My Name
-I am from Shanghai, China. The IPA transcription of my Chinese name 朱筱萌 in Putonghua is \[ɕiau˨˩˦məŋ˧˥ ʈʂu˥˥\], although I do not necessarily realize the consonant in my last name as a retroflex (more like [tʃ]). Here is an easier way to pronounce my name for English speakers: /sheeaw-mong joo/. I also go by Miranda.
+The IPA transcription of my Chinese name 朱筱萌 in Putonghua is \[ɕiau˨˩˦məŋ˧˥ ʈʂu˥˥\], although I do not necessarily realize the consonant in my last name as a retroflex (more like [tʃ]). Here is an easier way to pronounce my name for English speakers: /sheeaw-mong joo/. I also go by Miranda.
 
 ## Research Interests
 I am broadly interested in research at the intersection of Computer Science and Linguistics -- applying computational methods to understand linguistic phenomena as well as building language models that have better natural language understanding abilities with the help of linguistic insights.
