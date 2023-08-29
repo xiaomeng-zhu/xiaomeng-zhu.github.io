@@ -20,10 +20,6 @@ I am broadly interested in research at the intersection of Computer Science and 
 Advisor: Professor [Carolyn Anderson](https://canders1.github.io/)\
 The poster that we presented at the Wellesley College Science Center Summer Research Program poster session can be found [here](https://xiaomeng-zhu.github.io/images/LiuZhu_Anderson.pdf). 
 
-**Senior Thesis: The Modified Mother Tongue: Examining Chinese Vowel Quality Shift in Chinese-Dominant Chinese-English Code-Switching Environments (May 2022 - May 2023)**\
-Advisor: Professor [Angela Carpenter](https://www.wellesley.edu/cogsci/faculty/carpenter)\
-
-
 ## Other Affiliations
 I was a member of the [Sociolinguistics Lab](https://www.sabriya-fisher.com/sociolinguistics-at-wellesley) at Wellesley College (PI: Sabriya Fisher). I have also worked as a research assistant at the [Experimental Syntax and Semantics Lab](http://web.mit.edu/hackl/www/lab/) at MIT (PI: Martin Hackl). 
 
