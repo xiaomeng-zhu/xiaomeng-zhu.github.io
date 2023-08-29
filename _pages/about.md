@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a first-year PhD student in Linguistics at Yale University. I obtained my Bachelor's degree in Computer Science and Cognitive and Linguistic Sciences (Lingusitics concentration) from Wellesley College, where I was advised by [Carolyn Anderson](https://canders1.github.io/) and [Angela Carpenter](https://www.wellesley.edu/cogsci/faculty/carpenter). I am originally from Shanghai, China. 
+Hello! I am a first-year PhD student in Linguistics at Yale University. I obtained my Bachelor's degree in Computer Science and Cognitive and Linguistic Sciences (Linguistics concentration) from Wellesley College, where I was advised by [Carolyn Anderson](https://canders1.github.io/) and [Angela Carpenter](https://www.wellesley.edu/cogsci/faculty/carpenter). I am originally from Shanghai, China. 
 
 ## About My Name
 The IPA transcription of my Chinese name 朱筱萌 in Putonghua is \[ɕiau˨˩˦məŋ˧˥ ʈʂu˥˥\], although I do not necessarily realize the consonant in my last name as a retroflex (more like [tʃ]). Here is an easier way to pronounce my name for English speakers: /sheeaw-mong joo/. I also go by Miranda.
