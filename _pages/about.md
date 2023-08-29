@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year PhD student in Linguistics at Yale University. I obtained my Bachelor's degree in Computer Science and Cognitive and Linguistic Sciences (Lingusitics concentration) from Wellesley College. I am from Shanghai, China. 
+Hello! I am a first-year PhD student in Linguistics at Yale University. I obtained my Bachelor's degree in Computer Science and Cognitive and Linguistic Sciences (Lingusitics concentration) from Wellesley College, where I was advised by [Carolyn Anderson](https://canders1.github.io/) and [Angela Carpenter](https://www.wellesley.edu/cogsci/faculty/carpenter). I am originally from Shanghai, China. 
 
 ## About My Name
 The IPA transcription of my Chinese name 朱筱萌 in Putonghua is \[ɕiau˨˩˦məŋ˧˥ ʈʂu˥˥\], although I do not necessarily realize the consonant in my last name as a retroflex (more like [tʃ]). Here is an easier way to pronounce my name for English speakers: /sheeaw-mong joo/. I also go by Miranda.
@@ -19,9 +19,6 @@ I am broadly interested in research at the intersection of Computer Science and 
 **XiaoshuoNLP: An NLP Pipeline for Processing Chinese Literary Texts (May 2022 - Present)**\
 Advisor: Professor [Carolyn Anderson](https://canders1.github.io/)\
 The poster that we presented at the Wellesley College Science Center Summer Research Program poster session can be found [here](https://xiaomeng-zhu.github.io/images/LiuZhu_Anderson.pdf). 
-
-## Other Affiliations
-I was a member of the [Sociolinguistics Lab](https://www.sabriya-fisher.com/sociolinguistics-at-wellesley) at Wellesley College (PI: Sabriya Fisher). I have also worked as a research assistant at the [Experimental Syntax and Semantics Lab](http://web.mit.edu/hackl/www/lab/) at MIT (PI: Martin Hackl). 
 
 ## Teaching Assistantships
 [CS 240: Foundations of Computer Systems](https://cs.wellesley.edu/~cs240/f22/) (Fall 2022, Spring 2022)\
