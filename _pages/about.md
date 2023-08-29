@@ -21,10 +21,10 @@ Advisor: Professor [Carolyn Anderson](https://canders1.github.io/)\
 The poster that we presented at the Wellesley College Science Center Summer Research Program poster session can be found [here](https://xiaomeng-zhu.github.io/images/LiuZhu_Anderson.pdf). 
 
 ## Teaching Assistantships
-[CS 240: Foundations of Computer Systems](https://cs.wellesley.edu/~cs240/f22/) (Fall 2022, Spring 2022)\
+[CS 240: Foundations of Computer Systems](https://cs.wellesley.edu/~cs240/f22/) (Fall 2022, Spring 2022), Wellesley College\
 Instructor: Franklyn Turbak, Andrew Davis
 
-[CS 204: Introduction to Web Development](https://cs.wellesley.edu/~cs204/schedule/schedule.html) (Fall 2020 Term 2)\
+[CS 204: Introduction to Web Development](https://cs.wellesley.edu/~cs204/schedule/schedule.html) (Fall 2020 Term 2), Wellesley College\
 Instructor: Scott Anderson
 
 Last Updated: August 2023
