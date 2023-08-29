@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a senior at Wellesley College double majoring in Computer Science and Cognitive and Linguistic Sciences (Linguistics concentration). I will join Yale Lingusitics as a first-year PhD student in Fall 2023. I am from Shanghai, China. 
+I am a first-year PhD student in Linguistics at Yale University. I obtained my Bachelor's degree in Computer Science and Cognitive and Linguistic Sciences (Lingusitics concentration) from Wellesley College. I am from Shanghai, China. 
 
 ## About My Name
 The IPA transcription of my Chinese name 朱筱萌 in Putonghua is \[ɕiau˨˩˦məŋ˧˥ ʈʂu˥˥\], although I do not necessarily realize the consonant in my last name as a retroflex (more like [tʃ]). Here is an easier way to pronounce my name for English speakers: /sheeaw-mong joo/. I also go by Miranda.
@@ -20,12 +20,12 @@ I am broadly interested in research at the intersection of Computer Science and 
 Advisor: Professor [Carolyn Anderson](https://canders1.github.io/)\
 The poster that we presented at the Wellesley College Science Center Summer Research Program poster session can be found [here](https://xiaomeng-zhu.github.io/images/LiuZhu_Anderson.pdf). 
 
-**Senior Thesis: The Modified Mother Tongue: Examining Chinese Vowel Quality Shift in Chinese-Dominant Chinese-English Code-Switching Environments (May 2022 - Present)**\
+**Senior Thesis: The Modified Mother Tongue: Examining Chinese Vowel Quality Shift in Chinese-Dominant Chinese-English Code-Switching Environments (May 2022 - May 2023)**\
 Advisor: Professor [Angela Carpenter](https://www.wellesley.edu/cogsci/faculty/carpenter)\
-Please email me if you would like a copy of the introduction chapter of my thesis. I am also recruiting participants for my [experiment](https://xiaomeng-zhu.github.io/images/Flyer%20English-Translated.pdf). If you are a Chinese international student in the U.S. who grew up mainly in Beijing/Shanghai and are interested in participating in bilingualism/phonetics research, please feel free to reach out! 
+
 
 ## Other Affiliations
-I am a member of the [Sociolinguistics Lab](https://www.sabriya-fisher.com/sociolinguistics-at-wellesley) at Wellesley College (PI: Sabriya Fisher). I have also worked as a research assistant at the [Experimental Syntax and Semantics Lab](http://web.mit.edu/hackl/www/lab/) at MIT (PI: Martin Hackl). 
+I was a member of the [Sociolinguistics Lab](https://www.sabriya-fisher.com/sociolinguistics-at-wellesley) at Wellesley College (PI: Sabriya Fisher). I have also worked as a research assistant at the [Experimental Syntax and Semantics Lab](http://web.mit.edu/hackl/www/lab/) at MIT (PI: Martin Hackl). 
 
 ## Teaching Assistantships
 [CS 240: Foundations of Computer Systems](https://cs.wellesley.edu/~cs240/f22/) (Fall 2022, Spring 2022)\
@@ -34,6 +34,7 @@ Instructor: Franklyn Turbak, Andrew Davis
 [CS 204: Introduction to Web Development](https://cs.wellesley.edu/~cs204/schedule/schedule.html) (Fall 2020 Term 2)\
 Instructor: Scott Anderson
 
+Last Updated: August 2023
 
 <!---
 
