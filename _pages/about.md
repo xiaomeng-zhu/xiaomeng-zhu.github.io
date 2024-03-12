@@ -10,7 +10,7 @@ redirect_from:
 Hello! I am a first-year PhD student in Linguistics at Yale University. I obtained my Bachelor's degree in Computer Science and Cognitive and Linguistic Sciences (Linguistics concentration) from Wellesley College, where I was advised by [Carolyn Anderson](https://canders1.github.io/) and [Angela Carpenter](https://www.wellesley.edu/cogsci/faculty/carpenter). I am originally from Shanghai, China. 
 
 ## Publications
-**Xiaomeng Zhu** and Robert Frank. LIEDER: Linguistically-Informed Evaluation for Discourse Entity Recognition. *arXiv preprint arXiv 2403.06301*. [[pdf]]([/guides/content/editing-an-existing-page](https://arxiv.org/abs/2403.06301))
+**Xiaomeng Zhu** and Robert Frank. LIEDER: Linguistically-Informed Evaluation for Discourse Entity Recognition. *arXiv preprint arXiv 2403.06301*. [[pdf]](https://arxiv.org/abs/2403.06301)
 
 Kiara Liu, **Xiaomeng Zhu**, and Carolyn Anderson. XiaoshuoNLP: An NLP Pipeline for Processing Chinese Literary Texts. Poster presented at TADA 2023.
 
