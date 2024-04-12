@@ -14,6 +14,8 @@ Hello! I am a first-year PhD student in Linguistics at Yale University. I obtain
 
 Kiara Liu, **Xiaomeng Zhu**, and Carolyn Anderson. XiaoshuoNLP: An NLP Pipeline for Processing Chinese Literary Texts. *Poster presented at TADA 2023*.
 
+**Xiaomeng Zhu**. The Modified Mother Tongue: Examining Chinese Vowel Quality Shift in Chinese-Dominant Chinese-English Code-Switching Environments. *Honors Thesis, Wellesley College*. [[pdf]](https://repository.wellesley.edu/object/ir2040)
+
 ## Research Interests
 I am broadly interested in research at the intersection of Computer Science and Linguistics -- applying computational methods to understand linguistic phenomena as well as building language models that have better natural language understanding abilities with the help of linguistic insights.
 
