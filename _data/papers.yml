@@ -1,0 +1,19 @@
+papers:
+
+    - title: "LIEDER: Linguistically-Informed Evaluation for Discourse Entity Recognition"
+      authors: "Xiaomeng Zhu and Robert Frank"
+      conference: "Association for Computational Linguistics, 2024."
+      pdf: "https://arxiv.org/pdf/2403.06301"
+      # image: "/images/count-mass.png"
+
+    - title: "XiaoshuoNLP: An NLP Pipeline for Processing Chinese Literary Texts" 
+      authors: "Kiara Liu, Xiaomeng Zhu, and Carolyn Anderson"
+      conference: "Poster presented at TADA 2023."
+      # pdf : "/papers/automorphism.pdf"
+      # image: "/images/automorphism.png"  
+
+    - title: "The Modified Mother Tongue: Examining Chinese Vowel Quality Shift in Chinese-Dominant Chinese-English Code-Switching Environments" 
+      authors: "Xiaomeng Zhu and Angela Carpenter"
+      conference: "Honors Thesis, Wellesley College."
+      pdf : "https://repository.wellesley.edu/object/ir2040"
+      # image: "/images/povstim.png"  
