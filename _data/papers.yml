@@ -4,6 +4,7 @@ papers:
       authors: "Xiaomeng Zhu and Robert Frank"
       conference: "Association for Computational Linguistics, 2024."
       pdf: "https://arxiv.org/pdf/2403.06301"
+      code: "https://github.com/xiaomeng-zhu/LIEDER"
       image: "/images/lieder.png"
 
     - title: "XiaoshuoNLP: An NLP Pipeline for Processing Chinese Literary Texts" 
