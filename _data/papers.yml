@@ -10,6 +10,7 @@ papers:
     - title: "XiaoshuoNLP: An NLP Pipeline for Processing Chinese Literary Texts" 
       authors: "Kiara Liu, Xiaomeng Zhu, and Carolyn Anderson"
       conference: "Poster presented at TADA 2023."
+      pdf: "/images/LiuZhu_Anderson.pdf"
       image: "/images/xiaoshuo.png"  
 
     - title: "The Modified Mother Tongue: Examining Chinese Vowel Quality Shift in Chinese-Dominant Chinese-English Code-Switching Environments" 
