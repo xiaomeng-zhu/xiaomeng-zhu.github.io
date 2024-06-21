@@ -5,28 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-<table>
-{% for paper in site.data.papers.papers %}
+**Xiaomeng Zhu** and Robert Frank. LIEDER: Linguistically-Informed Evaluation for Discourse Entity Recognition. *ACL 2024*. [[pdf]](https://arxiv.org/abs/2403.06301) [[code]](https://github.com/xiaomeng-zhu/LIEDER)
 
+Kiara Liu, **Xiaomeng Zhu**, and Carolyn Anderson. XiaoshuoNLP: An NLP Pipeline for Processing Chinese Literary Texts. *Poster presented at TADA 2023*.
 
-<tr><td style="padding:10px">
-{% if paper.image %}<img width="250px" src="{{paper.image}}"> {% endif %}
-</td><td style="padding:10px">
-<a class="paper" href="{{paper.pdf}}">
-{{paper.title}}
-</a><br>
-{{paper.authors}}<br>
-{{paper.conference}} <br>
-
-{% if paper.pdf %}<a class="btn btn-labeled btn-primary" href="{{paper.pdf}}">PDF</a>{% endif %}
-{% if paper.arXiv %}<a class="btn btn-labeled btn-primary" href="{{paper.pdf}}">arXiv</a>{% endif %}
-{% if paper.bibtex %}<a class="btn btn-labeled btn-primary" href="{{paper.bibtex}}">BibTex</a>{% endif %}
-{% if paper.code %}<a class="btn btn-labeled btn-primary" href="{{paper.code}}">Code</a>{% endif %}
-<br>
-
-</td></tr>
-
-{% endfor %}
-</table>
+**Xiaomeng Zhu** and Angela Carpenter. The Modified Mother Tongue: Examining Chinese Vowel Quality Shift in Chinese-Dominant Chinese-English Code-Switching Environments. *Honors Thesis, Wellesley College*. [[pdf]](https://repository.wellesley.edu/object/ir2040)
 
 
