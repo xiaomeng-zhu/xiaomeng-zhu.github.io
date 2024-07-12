@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a second-year PhD student in Linguistics at Yale University where I am fortunate to be advised by [Robert Frank](https://bobfrank1.github.io/). I obtained my Bachelor's degree in Computer Science and Cognitive and Linguistic Sciences (Linguistics concentration) from Wellesley College in 2023, where I was advised by [Carolyn Anderson](https://canders1.github.io/) and [Angela Carpenter](https://www.wellesley.edu/cogsci/faculty/carpenter). I am originally from Shanghai, China. 
+I am a second-year PhD student in Linguistics at Yale University where I am fortunate to be advised by [Robert Frank](https://bobfrank1.github.io/). I obtained my Bachelor's degree in Computer Science and Cognitive and Linguistic Sciences (Linguistics concentration) from Wellesley College in 2023, where I was advised by [Carolyn Anderson](https://canders1.github.io/) and [Angela Carpenter](https://www.wellesley.edu/cogsci/faculty/carpenter). I am originally from Shanghai, China. 
 
 I am broadly interested in research at the intersection of Computer Science and Linguistics -- applying computational methods to understand linguistic phenomena as well as building language models that have better natural language understanding abilities with the help of linguistic insights.
 
 ## News
-- (May 2024) I am excited to announce that my first paper [LIEDER: Linguistically-Informed Evaluation for Discourse Entity Recognition](https://github.com/xiaomeng-zhu/LIEDER) has been accepted to the main conference of ACL 2024!
+- (May 2024) I am excited to announce that my first paper [LIEDER: Linguistically-Informed Evaluation for Discourse Entity Recognition](https://github.com/xiaomeng-zhu/LIEDER) has been accepted to the main conference of ACL 2024! See you in Bangkok!
 
 
 ## Teaching Assistantships
