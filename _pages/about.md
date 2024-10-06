@@ -22,7 +22,7 @@ Instructor: Franklyn Turbak, Andrew Davis
 [CS 204: Introduction to Web Development](https://cs.wellesley.edu/~cs204/schedule/schedule.html) (Fall 2020 Term 2), Wellesley College\
 Instructor: Scott Anderson
 
-Last Updated: Jun 2024
+Last Updated: Oct 2024
 
 <!---
 
