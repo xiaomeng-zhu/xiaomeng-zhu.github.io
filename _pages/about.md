@@ -9,18 +9,26 @@ redirect_from:
 ---
 I am a second-year PhD student in Linguistics at Yale University where I am fortunate to be advised by [Robert Frank](https://bobfrank1.github.io/) and [Tom McCoy](https://rtmccoy.com/). I obtained my Bachelor's degree in Computer Science and Cognitive and Linguistic Sciences (Linguistics concentration) from Wellesley College in 2023, where I was advised by [Carolyn Anderson](https://canders1.github.io/) and [Angela Carpenter](https://www.wellesley.edu/cogsci/faculty/carpenter). I am originally from Shanghai, China. 
 
-I am broadly interested in research at the intersection of Computer Science and Linguistics -- applying computational methods to understand linguistic phenomena as well as building language models that have better natural language understanding abilities with the help of linguistic insights.
+My research centers on the following two questions:\
+(i) How is meaning acquired and represented in large (multimodal) language models\
+(ii) How can we develop and evaluate natural language processing systems using linguistic insights?
+
+Aside from computational linguistics, I also work on dynamic models of articulation under the framework of Dynamic Field Theory.
+
+**I am actively looking for Summer 2025 research internships. Please feel free to reach out if you think I will be a good fit for your position!**
 
 ## News
+- (Sep 2024) I will be presenting in the Dynamic Field Theory for Unifying Discrete and Continuous Aspects of Linguistic Representations symposium at LSA 2025. See you in Philadelphia!
 - (May 2024) I am excited to announce that my first paper [LIEDER: Linguistically-Informed Evaluation for Discourse Entity Recognition](https://github.com/xiaomeng-zhu/LIEDER) has been accepted to the main conference of ACL 2024! See you in Bangkok!
 
-
+<!---
 ## Teaching Assistantships
 [CS 240: Foundations of Computer Systems](https://cs.wellesley.edu/~cs240/f22/) (Fall 2022, Spring 2022), Wellesley College\
 Instructor: Franklyn Turbak, Andrew Davis
 
 [CS 204: Introduction to Web Development](https://cs.wellesley.edu/~cs204/schedule/schedule.html) (Fall 2020 Term 2), Wellesley College\
 Instructor: Scott Anderson
+--->
 
 Last Updated: Oct 2024
 
