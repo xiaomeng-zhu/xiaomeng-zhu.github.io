@@ -10,7 +10,7 @@ redirect_from:
 I am a second-year PhD student in Linguistics at Yale University where I am fortunate to be advised by [Robert Frank](https://bobfrank1.github.io/) and [Tom McCoy](https://rtmccoy.com/). I obtained my Bachelor's degree in Computer Science and Cognitive and Linguistic Sciences (Linguistics concentration) from Wellesley College in 2023, where I was advised by [Carolyn Anderson](https://canders1.github.io/) and [Angela Carpenter](https://www.wellesley.edu/cogsci/faculty/carpenter). I am originally from Shanghai, China. 
 
 My research centers on the following two questions:\
-(i) How is meaning acquired and represented in large (multimodal) language models\
+(i) How is meaning acquired and represented in large (multimodal) language models?\
 (ii) How can we develop and evaluate natural language processing systems using linguistic insights?
 
 Aside from computational linguistics, I also work on dynamic models of articulation under the framework of Dynamic Field Theory.
