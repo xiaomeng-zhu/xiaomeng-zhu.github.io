@@ -18,7 +18,7 @@ Aside from computational linguistics, I also work on dynamic models of articulat
 **I am actively looking for Summer 2025 research internships. Please feel free to reach out if you think I will be a good fit for your position!**
 
 ## News
-- (Sep 2024) I will be presenting in the Dynamic Field Theory for Unifying Discrete and Continuous Aspects of Linguistic Representations symposium at LSA 2025. See you in Philadelphia!
+- (Sep 2024) I will be presenting in the Dynamic Field Theory for Unifying Discrete and Continuous Aspects of Linguistic Representations symposium at LSA 2025 Annual Meeting. See you in Philadelphia!
 - (May 2024) I am excited to announce that my first paper [LIEDER: Linguistically-Informed Evaluation for Discourse Entity Recognition](https://github.com/xiaomeng-zhu/LIEDER) has been accepted to the main conference of ACL 2024! See you in Bangkok!
 
 <!---
