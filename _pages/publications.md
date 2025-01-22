@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Yuxin Wang, **Xiaomeng Zhu**, Weimin Lyu, Saeed Hassanpour, Soroush Vosoughi. 2025. IMPSCORE: A Learnable Metric For Quantifying The
-Implicitness Level of Language. *ICLR 2025* [[pdf]](https://arxiv.org/abs/2411.05172)
+Implicitness Level of Language. *ICLR 2025*. [[pdf]](https://arxiv.org/abs/2411.05172)
 
 **Xiaomeng Zhu** and Robert Frank. 2024. LIEDER: Linguistically-Informed Evaluation for Discourse Entity Recognition. *ACL 2024*. [[pdf]](https://arxiv.org/abs/2403.06301) [[code]](https://github.com/xiaomeng-zhu/LIEDER)
 
