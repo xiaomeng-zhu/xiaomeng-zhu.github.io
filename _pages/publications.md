@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Xiaomeng Zhu**, Herbert Zhou, Simon Charlow, Robert Frank. 2025. Meaning Beyond Truth Conditions: Evaluating Discourse Level Understanding via Anaphora Accessibility. *arXiv Preprint*. [[pdf]](https://arxiv.org/pdf/2502.14119)
+
 Yuxin Wang, **Xiaomeng Zhu**, Weimin Lyu, Saeed Hassanpour, Soroush Vosoughi. 2025. IMPSCORE: A Learnable Metric For Quantifying The
 Implicitness Level of Language. *ICLR 2025*. [[pdf]](https://arxiv.org/abs/2411.05172)
 
