@@ -15,10 +15,9 @@ My research centers on the following two questions:\
 
 Aside from computational linguistics, I also work on dynamic models of articulation under the framework of Dynamic Field Theory.
 
-**I am actively looking for Summer 2025 research internships. Please feel free to reach out if you think I will be a good fit for your position!**
-
 ## News
-- (Sep 2024) I will be presenting in the Dynamic Field Theory for Unifying Discrete and Continuous Aspects of Linguistic Representations symposium at LSA 2025 Annual Meeting. See you in Philadelphia!
+- (Feb 2025) New preprint [**Meaning beyond truth conditions**](https://arxiv.org/pdf/2502.14119) that uses core ideas from dynamic semantics to evaluate LLMs!
+- (Jan 2025) I presented in the Dynamic Field Theory for Unifying Discrete and Continuous Aspects of Linguistic Representations symposium at LSA 2025 Annual Meeting. 
 - (May 2024) I am excited to announce that my first paper [LIEDER: Linguistically-Informed Evaluation for Discourse Entity Recognition](https://github.com/xiaomeng-zhu/LIEDER) has been accepted to the main conference of ACL 2024! See you in Bangkok!
 
 <!---
@@ -30,7 +29,7 @@ Instructor: Franklyn Turbak, Andrew Davis
 Instructor: Scott Anderson
 --->
 
-Last Updated: Oct 2024
+Last Updated: March 2025
 
 <!---
 
