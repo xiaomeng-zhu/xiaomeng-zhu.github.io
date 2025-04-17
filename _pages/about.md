@@ -16,9 +16,10 @@ My research centers on the following two questions:\
 Aside from computational linguistics, I also work on dynamic models of articulation under the framework of Dynamic Field Theory.
 
 ## News
+- (April 2025) Our work **Do LLMs Understand Anaphoric Accessibility?** has been accepted as a poster to SCiL 2025! See you in Oregon!
 - (Feb 2025) New preprint [**Meaning beyond truth conditions**](https://arxiv.org/pdf/2502.14119) that uses core ideas from dynamic semantics to evaluate LLMs!
 - (Jan 2025) I presented in the Dynamic Field Theory for Unifying Discrete and Continuous Aspects of Linguistic Representations symposium at LSA 2025 Annual Meeting. 
-- (May 2024) I am excited to announce that my first paper [LIEDER: Linguistically-Informed Evaluation for Discourse Entity Recognition](https://github.com/xiaomeng-zhu/LIEDER) has been accepted to the main conference of ACL 2024! See you in Bangkok!
+- (May 2024) I am excited to announce that my first paper [**LIEDER: Linguistically-Informed Evaluation for Discourse Entity Recognition**](https://github.com/xiaomeng-zhu/LIEDER) has been accepted to the main conference of ACL 2024! See you in Bangkok!
 
 <!---
 ## Teaching Assistantships
