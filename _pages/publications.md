@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Xiaomeng Zhu**, R. Thomas McCoy, Robert Frank. 2025. The Structural Sources of Verb Meaning Revisited: Large Language Models Display Syntactic Bootstrapping. *arXiv preprint*.
 
 **Xiaomeng Zhu\***, Herbert Zhou\*, Simon Charlow, Robert Frank. 2025. Meaning Beyond Truth Conditions: Evaluating Discourse Level Understanding via Anaphora Accessibility. *ACL 2025*. [[pdf]](https://arxiv.org/pdf/2502.14119)
 
