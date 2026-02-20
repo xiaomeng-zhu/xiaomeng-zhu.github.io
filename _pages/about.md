@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year PhD student in Linguistics at Yale University where I am fortunate to be advised by [Robert Frank](https://bobfrank1.github.io/) and [Tom McCoy](https://rtmccoy.com/). I obtained my Bachelor's degree in Computer Science and Cognitive and Linguistic Sciences (Linguistics concentration) from Wellesley College in 2023, where I was advised by [Carolyn Anderson](https://canders1.github.io/) and [Angela Carpenter](https://www.wellesley.edu/cogsci/faculty/carpenter). I am originally from Shanghai, China. 
+I am a third-year PhD student in Linguistics at Yale University where I am fortunate to be advised by [Robert Frank](https://bobfrank1.github.io/) and [Tom McCoy](https://rtmccoy.com/). I obtained my Bachelor's degree in Computer Science and Cognitive and Linguistic Sciences (Linguistics concentration) from Wellesley College in 2023, where I was advised by [Carolyn Anderson](https://canders1.github.io/) and [Angela Carpenter](https://www.wellesley.edu/cogsci/faculty/carpenter). I am originally from Shanghai, China. 
 
 My research centers on the following two questions:\
 (i) How is meaning acquired and represented in large (multimodal) language models?\
@@ -31,7 +31,7 @@ Instructor: Franklyn Turbak, Andrew Davis
 Instructor: Scott Anderson
 --->
 
-Last Updated: May 2025
+Last Updated: Feb 2026
 
 <!---
 
