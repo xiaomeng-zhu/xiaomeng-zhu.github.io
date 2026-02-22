@@ -19,8 +19,6 @@ Aside from computational linguistics, I also work on dynamic models of articulat
 - (Feb 2026) Our poster ***Narrowing the Scope of Frequency and Informativity Effects on Word Duration: Experimental Evidence from Mandarin*** has been accepted to LabPhon 20! See you in Montreal!
 - (May 2025) New paper [***Meaning beyond truth conditions***](https://arxiv.org/pdf/2502.14119) accepted to ACL 2025! We proposed the use of core ideas from dynamic semantics to evaluate LLMs. Shout-out to my amazing collaborators [Herbert Zhou](https://herbert-zhou.github.io/), [Simon Charlow](https://simoncharlow.com/) and [Bob Frank](https://bobfrank1.github.io/). See you in Vienna:)
 - (April 2025) Our work ***Do LLMs Understand Anaphoric Accessibility?*** has been accepted as a poster to SCiL 2025! See you in Oregon!
-- (Jan 2025) I presented in the Dynamic Field Theory for Unifying Discrete and Continuous Aspects of Linguistic Representations symposium at LSA 2025 Annual Meeting. 
-- (May 2024) I am excited to announce that my first paper [***LIEDER: Linguistically-Informed Evaluation for Discourse Entity Recognition***](https://github.com/xiaomeng-zhu/LIEDER) has been accepted to the main conference of ACL 2024! See you in Bangkok!
 
 <!---
 ## Teaching Assistantships
