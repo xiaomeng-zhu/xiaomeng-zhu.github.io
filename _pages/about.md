@@ -17,7 +17,7 @@ Aside from computational linguistics, I also work on dynamic models of articulat
 
 ## News
 - (April 2026) Our paper ***Complement Size and Epistemic Effects in Perception Reports.*** has been accepted to CogSci 2026! See you in Rio de Janeiro!
-- (Feb 2026) Our poster [***Narrowing the Scope of Frequency and Informativity Effects on Word Duration: Experimental Evidence from Mandarin***][https://drive.google.com/file/d/1aDxrAEazJYy92M4ad9JMIAwYQAHXC4Io/view?usp=sharing] has been accepted to LabPhon 20! See you in Montreal!
+- (Feb 2026) Our poster [***Narrowing the Scope of Frequency and Informativity Effects on Word Duration: Experimental Evidence from Mandarin***](https://drive.google.com/file/d/1aDxrAEazJYy92M4ad9JMIAwYQAHXC4Io/view?usp=sharing) has been accepted to LabPhon 20! See you in Montreal!
 - (May 2025) New paper [***Meaning beyond truth conditions***](https://arxiv.org/pdf/2502.14119) accepted to ACL 2025! We proposed the use of core ideas from dynamic semantics to evaluate LLMs. Shout-out to my amazing collaborators [Herbert Zhou](https://herbert-zhou.github.io/), [Simon Charlow](https://simoncharlow.com/) and [Bob Frank](https://bobfrank1.github.io/). See you in Vienna:)
 - (April 2025) Our work ***Do LLMs Understand Anaphoric Accessibility?*** has been accepted as a poster to SCiL 2025! See you in Oregon!
 
