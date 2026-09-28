@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD Candidate in Linguistics at Yale University where I am fortunate to be advised by [Robert Frank](https://bobfrank1.github.io/) and [Tom McCoy](https://rtmccoy.com/). I obtained my Bachelor's degree in Computer Science and Cognitive and Linguistic Sciences (Linguistics concentration) from Wellesley College in 2023, where I was advised by [Carolyn Anderson](https://canders1.github.io/) and [Angela Carpenter](https://www.wellesley.edu/cogsci/faculty/carpenter). I am originally from Shanghai, China. 
+I am a fourth-year PhD Candidate in Linguistics at Yale University where I am fortunate to be advised by [Robert Frank](https://bobfrank1.github.io/) and [Tom McCoy](https://rtmccoy.com/). I obtained my Bachelor's degree in Computer Science and Cognitive and Linguistic Sciences (Linguistics concentration) from Wellesley College in 2023, where I was advised by [Carolyn Anderson](https://canders1.github.io/) and [Angela Carpenter](https://www.wellesley.edu/cogsci/faculty/carpenter). I am originally from Shanghai, China. 
 
 My research centers on the following two questions:\
 (i) How is meaning acquired and represented in large (multimodal) language models?\
@@ -16,7 +16,7 @@ My research centers on the following two questions:\
 Aside from computational linguistics, I also work on dynamic models of articulation under the framework of Dynamic Field Theory.
 
 ## News
-- (September 2026) I successfully defended my dissertation prospectus ***Cues to Verb Learning: Computational Investigations with Large Language Mdoels***! Now ABD!
+- (September 2026) I successfully defended my dissertation prospectus ***Cues to Verb Learning: Computational Investigations with Large Language Models***! Now ABD!
 - (April 2026) Our paper ***Complement Size and Epistemic Effects in Perception Reports.*** has been accepted to CogSci 2026! See you in Rio de Janeiro!
 - (Feb 2026) Our poster [***Narrowing the Scope of Frequency and Informativity Effects on Word Duration: Experimental Evidence from Mandarin***](https://drive.google.com/file/d/1aDxrAEazJYy92M4ad9JMIAwYQAHXC4Io/view?usp=sharing) has been accepted to LabPhon 20! See you in Montreal!
 - (May 2025) New paper [***Meaning beyond truth conditions***](https://arxiv.org/pdf/2502.14119) accepted to ACL 2025! We proposed the use of core ideas from dynamic semantics to evaluate LLMs. Shout-out to my amazing collaborators [Herbert Zhou](https://herbert-zhou.github.io/), [Simon Charlow](https://simoncharlow.com/) and [Bob Frank](https://bobfrank1.github.io/). See you in Vienna:)
