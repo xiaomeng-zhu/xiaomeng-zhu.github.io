@@ -18,7 +18,7 @@ Aside from computational linguistics, I also work on neural process models of ar
 ## News
 - (September 2026) I successfully defended my dissertation prospectus ***Cues to Verb Learning: Computational Investigations with Large Language Models***! Now ABD!
 - (August 2026) My first journal paper [***The Structural Sources of Verb Meanings Revisited: Large Language Models Display Syntactic Bootstrapping***](https://direct.mit.edu/opmi/article/doi/10.1162/OPMI.a.391/138879/The-Structural-Sources-of-Verb-Meanings-Revisited) is now published on Open Mind!
-- (April 2026) Our paper ***Complement Size and Epistemic Effects in Perception Reports.*** has been accepted to CogSci 2026! See you in Rio de Janeiro!
+- (April 2026) Our paper [***Complement Size and Epistemic Effects in Perception Reports.***](https://escholarship.org/uc/item/3mq0j6kx) has been accepted to CogSci 2026! See you in Rio de Janeiro!
 - (Feb 2026) Our poster [***Narrowing the Scope of Frequency and Informativity Effects on Word Duration: Experimental Evidence from Mandarin***](https://drive.google.com/file/d/1aDxrAEazJYy92M4ad9JMIAwYQAHXC4Io/view?usp=sharing) has been accepted to LabPhon 20! See you in Montreal!
 - (May 2025) New paper [***Meaning beyond truth conditions***](https://arxiv.org/pdf/2502.14119) accepted to ACL 2025! We proposed the use of core ideas from dynamic semantics to evaluate LLMs. Shout-out to my amazing collaborators [Herbert Zhou](https://herbert-zhou.github.io/), [Simon Charlow](https://simoncharlow.com/) and [Bob Frank](https://bobfrank1.github.io/). See you in Vienna:)
 
